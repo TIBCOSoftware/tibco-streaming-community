@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.tibco.ep.ldm.tstables</groupId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>106.1.4-SNAPSHOT</version>
 
   <name>LV technical support tables</name>
   <description>TableProvider classes to add TS of LiveView</description>
@@ -15,12 +15,12 @@
       <dependency>
         <groupId>com.tibco.ep.ldm</groupId>
         <artifactId>client</artifactId>
-        <version>10.5.0</version>
+        <version>10.6.6</version>
       </dependency>
       <dependency>
         <groupId>com.tibco.ep.ldm</groupId>
         <artifactId>service-layer</artifactId>
-        <version>10.5.0</version>
+        <version>10.6.6</version>
       </dependency>
   </dependencies>
   <artifactId>ts-tableprovider</artifactId>
